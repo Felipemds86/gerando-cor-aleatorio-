@@ -1,0 +1,9 @@
+const setBg = () =>{
+    const randowcolor=
+Match.floor(Match.floor()= 16777215).tostring(16);
+document.body.style.backgroundColor='#' + randowcolor;
+color.innerHtml = '#' + randowcolor;
+}
+
+genNew.addEventListener("click" , setBg);
+setBg();
